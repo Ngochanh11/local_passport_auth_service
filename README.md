@@ -28,6 +28,3 @@ Nhập {"username": "admin", "password": "12345"} và chọn Send
 Kết quả:
 
 <img width="1507" height="929" alt="image" src="https://github.com/user-attachments/assets/6c05a441-30f8-43d5-b63b-81e7787fe2f0" />
-
-Check in database:
-
